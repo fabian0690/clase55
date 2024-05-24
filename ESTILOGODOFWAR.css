@@ -1,0 +1,56 @@
+*{
+	margin: 30px;
+	padding: 30px;
+}
+
+did#general{
+	margin: auto;
+	margin-top: 50px;
+	width: 900px;
+	height: 800px;
+	background-color: red;
+}
+
+
+div#bloque1{
+	float: center;
+	width: 1000px;
+	height: 500px;
+	background-color: yellow;
+}
+
+div#bloque2{
+	width: 1000px;
+	height: 100px;
+	background-color: red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+div#bloque3{
+	width: 1000px;
+	height: 400px;
+	background-color: yellow;
+	margin-top: 10px;
+}
+
+nav{
+	background-color: yellow;
+	podding:10px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+nav a{
+    color: black;
+    podding : 10px 10 px;
+    text-decoration: none;
+
+}
+
+nav{
+	display: flex;
+	justify-content: center;
+}
